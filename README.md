@@ -27,7 +27,7 @@
 </div>
 
 ---
-
+![image alt](snaps/mainInterface.PNG)
 ## 📖 About
 
 A comprehensive Hostel Management System built in C++ that streamlines hostel operations through an intuitive console interface. This system features dual-portal access (Admin & Student), file-based persistent storage, and complete management of students, rooms, fees, mess services, and visitor records.
@@ -40,6 +40,7 @@ A comprehensive Hostel Management System built in C++ that streamlines hostel op
   - Search functionality with instant results
   - Track student details (ID, name, phone, email, room assignment)
   - Custom password system for each student
+  - ![image alt](snaps/addstudents.PNG)
 
 - **Room Management**
   - Assign students to rooms (2 students per room, 50 rooms total)
@@ -66,6 +67,7 @@ A comprehensive Hostel Management System built in C++ that streamlines hostel op
   - View current meal schedules
 
 #### 👨‍🎓 Student Portal
+![image alt](snaps/student.PNG)
 - **Profile Management**
   - View personal details
   - Check room assignment and roommate info
@@ -452,3 +454,13 @@ Created as a first-semester C++ programming project demonstrating comprehensive 
 *"Efficient hostel management through elegant code"*
 
 </div>
+## 👤 Author
+
+**mUmar**
+- GitHub: [mUmarSaga](https://github.com/mUmarSaga)
+- Email: umar342342342@gmail.com
+- University: UET Lahore
+
+</div>
+🔗 **My Other Projects:**
+- [8 bit breadboard computer](https://github.com/mUmarSaga/Ben_eater_sap_1)
